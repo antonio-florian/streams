@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Programmatic",
+      "description": "It should work! #2",
+      "userId": "106007924137444696165",
+      "id": 6
+    },
+    {
+      "title": "new create wow",
+      "description": "this is a new way to create a stream",
+      "userId": "106007924137444696165",
+      "id": 7
+    },
+    {
+      "title": "Hello world",
+      "description": "this is an automated message",
+      "userId": "106007924137444696165",
+      "id": 8
+    },
+    {
+      "title": "iuuujkhgkhgj",
+      "description": "hjhgjghj",
+      "userId": "106007924137444696165",
+      "id": 9
+    },
+    {
+      "title": "ooooooooooo",
+      "description": "pppppppp",
+      "userId": "106007924137444696165",
+      "id": 10
+    }
+  ]
+}
